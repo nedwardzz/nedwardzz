@@ -8,13 +8,17 @@ I'm on a journey to grow into a well-rounded full-stack developer.
 ### 💼 Professional Background
 
 With 12+ years across the manufacturing and IT industries, I've held roles including:
-- Product Team Lead  
-- Business Systems Analyst  
-- FinOps Practitioner  
-- Scrum Master  
+- Product Team Lead
+- Business Systems Analyst
+- Technical Account Manager
+- FinOps Practitioner
+- Scrum Master
+- Software Engineer 1
 
-I have a B.S. in Business Administration and am currently pursuing a B.S. in Computer Science.  
-Throughout my career, I’ve led numerous value-driven and waste-reduction projects, optimizing workflows for cross-functional teams of 5 to 30+ people.
+Throughout my career, I’ve led numerous value-driven and waste-reduction projects, optimizing workflows across cross-functional teams.
+I have a true passion for improving and cultivating environments that empower teams and facilitate continuous improvement naturally.  
+
+I have a B.S. in Business Administration and am currently pursuing a B.S. in Computer Science.
 
 ---
 
@@ -47,31 +51,24 @@ My goal is to bridge business expertise with technical skills, and become a vers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-⚡ **Fun fact**
+---
 
-I volunteer often with CodeCademy, come check out the community, free courses, and join one of the many events to get started with your IT journey!
+### ⚡ Fun fact
+
+I enjoy volunteering. 
+
+I often volunteer with [Codecademy](https://www.codecademy.com/catalog), come check out the free courses (some pathways are paid), the community, and join one of the many events to get started with your IT journey!
 
 I'm the Club Captain for the Boston Club in particular, [check it out here](https://community.codecademy.com/c/boston/)!
 
+📅 I host 1 event per month focused on fundamental micro technical skills.
 
+A component of learning is further solidifying it by teaching it to others, and in that experience, I may also refine myself, my understanding, approaches and perspective through empiricism and hearing from other's experiences and perspective.
+
+📌 *Heads up — I’m not sponsored by Codecademy, I just think their stuff is neat!*
 
 ---
 
-> “A growth mindset is the best tool in any engineer's toolkit.” 🌱
-
-<!--
-**nedwardzz/nedwardzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🌱 “A growth mindset is the best tool in any engineer's toolkit.” 🌱
 
 
