@@ -5,7 +5,7 @@ I'm on a journey to grow into a well-rounded full-stack developer.
 
 ---
 
-💼 **Professional Background**
+### 💼 Professional Background
 
 With 12+ years across the manufacturing and IT industries, I've held roles including:
 - Product Team Lead  
@@ -18,26 +18,34 @@ Throughout my career, I’ve led numerous value-driven and waste-reduction proje
 
 ---
 
-🧠 **Why I Code**
+### 🧠 Why I Code
 
 I'm deeply curious about how systems work — especially the ones that power the operations I’ve spent my career improving.  
 My goal is to bridge business expertise with technical skills, and become a versatile full-stack developer who builds scalable, impactful solutions.
 
 ---
 
-📈 **Currently Leveling Up**
-- Mastering Git workflows & GitHub Actions  
-- TypeScript, Java, and API frameworks  
+### ❤️ Passionate About
+- Continuous learning & growth  
+- Collaborating with others  
+- Exploring how tech can bring ideas to life
+- Mastering Git workflows & GitHub Actions
+- Microservices development 
 - Design patterns & scalable architectures  
 - AWS, Infrastructure as Code, and DevOps practices  
 - Systems design & architecture thinking  
 
 ---
 
-❤️ **Passionate About**
-- Continuous learning & growth  
-- Collaborating with others  
-- Exploring how tech can bring ideas to life  
+### 🛠️ Currently Learning and Leveling Up In...
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ⚡ **Fun fact**
 
