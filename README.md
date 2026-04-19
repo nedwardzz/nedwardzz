@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub!
 
-Hi, I'm Nick Edwards — a junior software engineer focused on building backend microservices.  
+Hi, I'm Nick Edwards — an intermediate software engineer focused on building backend microservices.  
 I'm on a journey to grow into a well-rounded full-stack developer.
 
 ---
@@ -13,7 +13,7 @@ With 12+ years across the manufacturing and IT industries, I've held roles inclu
 - Technical Account Manager
 - FinOps Practitioner
 - Scrum Master
-- Software Engineer 1
+- Software Engineer
 
 Throughout my career, I’ve led numerous value-driven and waste-reduction projects, optimizing workflows across cross-functional teams.
 I have a true passion for improving and cultivating environments that empower teams and facilitate continuous improvement naturally.  
